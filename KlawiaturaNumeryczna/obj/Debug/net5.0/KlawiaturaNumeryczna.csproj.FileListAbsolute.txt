@@ -1,0 +1,16 @@
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\bin\Debug\net5.0\KlawiaturaNumeryczna.exe
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\bin\Debug\net5.0\KlawiaturaNumeryczna.deps.json
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\bin\Debug\net5.0\KlawiaturaNumeryczna.runtimeconfig.json
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\bin\Debug\net5.0\KlawiaturaNumeryczna.runtimeconfig.dev.json
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\bin\Debug\net5.0\KlawiaturaNumeryczna.dll
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\bin\Debug\net5.0\KlawiaturaNumeryczna.pdb
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.csproj.AssemblyReference.cache
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.AssemblyInfoInputs.cache
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.AssemblyInfo.cs
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.csproj.CoreCompileInputs.cache
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.dll
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\refint\KlawiaturaNumeryczna.dll
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.pdb
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\KlawiaturaNumeryczna.genruntimeconfig.cache
+C:\Users\monik\Desktop\Projekty\KlawiaturaNumeryczna\KlawiaturaNumeryczna\obj\Debug\net5.0\ref\KlawiaturaNumeryczna.dll
